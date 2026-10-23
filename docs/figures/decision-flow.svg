@@ -11,7 +11,7 @@
     <rect x="230" y="234" width="340" height="46" rx="12" fill="#17352c" stroke="#d4b483"/>
     <text x="400" y="263" text-anchor="middle">Eighteen fields typed and finite</text>
     <rect x="230" y="312" width="340" height="46" rx="12" fill="#17352c" stroke="#d4b483"/>
-    <text x="400" y="341" text-anchor="middle">Market age 060s � security age 0300s</text>
+    <text x="400" y="341" text-anchor="middle">Market age 0–60s · security age 0–300s</text>
     <rect x="230" y="390" width="340" height="46" rx="12" fill="#17352c" stroke="#d4b483"/>
     <text x="400" y="419" text-anchor="middle">Numeric gates, required trues, vetoes</text>
     <rect x="70" y="500" width="300" height="78" rx="16" fill="#1d3b2e" stroke="#8fd0a8"/>

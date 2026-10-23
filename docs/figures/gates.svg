@@ -19,22 +19,22 @@
     <rect x="230" y="194" width="520" height="16" rx="8" fill="#17352c"/>
     <rect x="230" y="194" width="156" height="16" rx="8" fill="#1f6b45"/>
     <circle cx="490" cy="202" r="6" fill="#d4b483"/>
-    <text x="766" y="208" fill="#c5d5cc">30 d 100</text>
+    <text x="766" y="208" fill="#c5d5cc">30 ≤ 100</text>
     <text x="36" y="256">Slippage, bps</text>
     <rect x="230" y="240" width="520" height="16" rx="8" fill="#17352c"/>
     <rect x="230" y="240" width="260" height="16" rx="8" fill="#1f6b45"/>
     <circle cx="490" cy="248" r="6" fill="#d4b483"/>
-    <text x="766" y="254" fill="#c5d5cc">50 d 100</text>
+    <text x="766" y="254" fill="#c5d5cc">50 ≤ 100</text>
     <text x="36" y="302">Tax, bps</text>
     <rect x="230" y="286" width="520" height="16" rx="8" fill="#17352c"/>
     <circle cx="230" cy="294" r="6" fill="#8fd0a8"/>
     <circle cx="620" cy="294" r="6" fill="#d4b483"/>
-    <text x="766" y="300" fill="#c5d5cc">0 d 500</text>
+    <text x="766" y="300" fill="#c5d5cc">0 ≤ 500</text>
     <text x="36" y="348">Top 10 holders</text>
     <rect x="230" y="332" width="520" height="16" rx="8" fill="#17352c"/>
     <rect x="230" y="332" width="395" height="16" rx="8" fill="#1f6b45"/>
     <circle cx="646" cy="340" r="6" fill="#d4b483"/>
-    <text x="766" y="346" fill="#c5d5cc">38% d 40%</text>
+    <text x="766" y="346" fill="#c5d5cc">38% ≤ 40%</text>
   </g>
   <text x="36" y="400" fill="#c5d5cc" font-family="Segoe UI, Helvetica, sans-serif" font-size="13">Bars are illustrative, not a common scale. The inequalities in the table are the policy.</text>
 </svg>

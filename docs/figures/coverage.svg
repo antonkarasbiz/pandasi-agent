@@ -3,7 +3,7 @@
   <desc id="desc">Sixteen of eighteen required fields are present. source_verified and sell_simulation_passed are null, so coverage rounds to 0.889.</desc>
   <rect width="900" height="340" rx="24" fill="#10211c"/>
   <text x="36" y="46" fill="#f3f6f2" font-family="Georgia, serif" font-size="26">Presence is not approval</text>
-  <text x="36" y="74" fill="#c5d5cc" font-family="Segoe UI, Helvetica, sans-serif" font-size="14">Incomplete sample · 16 present / 18 required · coverage 0.889 · decision ABSTAIN</text>
+  <text x="36" y="74" fill="#c5d5cc" font-family="Segoe UI, Helvetica, sans-serif" font-size="14">Incomplete sample Â· 16 present / 18 required Â· coverage 0.889 Â· decision ABSTAIN</text>
   <g font-family="Segoe UI, Helvetica, sans-serif" font-size="11" fill="#f3f6f2">
     <g>
       <rect x="36" y="104" width="128" height="36" rx="8" fill="#1f6b45"/><text x="100" y="126" text-anchor="middle">liquidity_usd</text>
